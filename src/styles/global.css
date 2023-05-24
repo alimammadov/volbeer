@@ -1,0 +1,8 @@
+a {
+  /* text-decoration: none; */
+}
+.filterContainerStyle {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
